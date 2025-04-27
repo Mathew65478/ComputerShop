@@ -3,7 +3,7 @@ Sklep Komputerowy projekt na programowanie obiektowe
 # ComputerShop Backend – ASP.NET Core
 
 ## Opis projektu
-Backend aplikacji ComputerShop, stworzony w technologii ASP.NET Core 6.  
+Backend aplikacji ComputerShop, stworzony w technologii ASP.NET Core 7.  
 Obsługuje operacje na użytkownikach, produktach, zamówieniach i rezerwacjach.
 
 ## Technologie
