@@ -7,7 +7,7 @@ Backend aplikacji ComputerShop, stworzony w technologii ASP.NET Core 6.
 Obsługuje operacje na użytkownikach, produktach, zamówieniach i rezerwacjach.
 
 ## Technologie
-- ASP.NET Core 6
+- ASP.NET Core 7 - pracujemy nad zmianą na wersję 9 (aktualna wersja z uwagi na testowanie)
 - Entity Framework Core
 - SQLite
 - REST API
