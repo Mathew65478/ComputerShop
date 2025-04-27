@@ -24,7 +24,7 @@ Obsługuje operacje na użytkownikach, produktach, zamówieniach i rezerwacjach.
 ## Jak uruchomić backend
 
 ### 1. Przygotowanie środowiska
-- Wymagane: Visual Studio 2022 lub Visual Studio Code + .NET 6 SDK
+- Wymagane: Visual Studio 2022 lub Visual Studio Code + .NET 7 SDK
 - Upewnij się, że masz zainstalowany EF Core Tools (`dotnet tool install --global dotnet-ef`)
 
 ### 2. Krok po kroku:
